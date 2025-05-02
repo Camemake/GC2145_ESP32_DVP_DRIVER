@@ -11,10 +11,10 @@ driver lets you swap sensors with almost no code changes.
 
 | Reason the GC2145 is a clean OV2640 alternative |
 | --- |
-| The OV2640 has been officially **EOL for more than a decade** yet the hobby market kept it alive with old stock — new stock is drying up.﻿¹ |
+| The OV2640 has been officially **EOL for more than a decade** yet the hobby market kept it alive with old stock — new stock is drying up.﻿ |
 | GC2145 matches the 2 MP resolution (1600 × 1200), uses the same **parallel DVP** bus, needs no extra RAM or MIPI, and sells for under $4 in volume. |
 | Lower dark current & better low‑light noise than OV2640 and ~15 % lower power. |
-| GC2145 silicon is **RoHS, REACH, CE** certified and shipped in volume for smartphones, so long‑term supply is realistic.﻿³ |
+| GC2145 silicon is **RoHS, REACH, CE** certified and shipped in volume for smartphones, so long‑term supply is realistic.﻿ |
 
 ---
 

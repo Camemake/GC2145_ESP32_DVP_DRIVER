@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17449335.svg)](https://doi.org/10.5281/zenodo.17449335)
+[![Documentation](https://img.shields.io/badge/docs-on%20website-blue)](https://www.camemake.eu/shop/cm-dvp-gc2145-universal-gc2145-dvp-camera-module-2mp-ov2640-replacement-2154)
+
 
 # GC2145 DVP Camera Driver for the ESP32 Family
 

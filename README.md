@@ -94,4 +94,11 @@ function:
 2. Drop a table of `{reg, val}` pairs into `gc2145_sensor.c`.
 3. Expose a wrapper similar to `gc2145_sensor_set_gain_db()`.
 
+# GC2145 ESP32 DVP Driver
+
+Official ESP32 driver and examples for the **GC2145** image sensor (DVP / parallel interface).
+Works with Camemake CM-DVP-GC2145 camera modules: https://www.camemake.eu/shop/cm-dvp-gc2145-universal-gc2145-dvp-camera-module-2mp-ov2640-replacement-2154
+
+How to cite: Camemake. 2025. GC2145 ESP32 DVP Driver. https://www.camemake.eu/shop/cm-dvp-gc2145-universal-gc2145-dvp-camera-module-2mp-ov2640-replacement-2154
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Release](https://img.shields.io/github/v/release/Camemake/GC2145_ESP32_DVP_DRIVER)](https://github.com/Camemake/GC2145_ESP32_DVP_DRIVER/releases)
 
